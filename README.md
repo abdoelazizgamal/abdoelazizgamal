@@ -16,11 +16,11 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 
 **About me**
 
-- 👨‍💻 I Worked as a Remote Frontend Developer with 2 years of experience and Worked on several Freelance projects
+- 👨‍💻 I Worked as a Remote Frontend Developer with 3 years of experience and Worked on several Freelance projects
 
 - 🎬 I Have Many Courses Like React , Tailwind , Bootstrap , Js Topics , Quran Website , Quran Player and Admin Dashboard
 
-- ❤️ I love writing Javascript , and building projects with React
+- ❤️ I love writing Javascript , and building projects with React and Next.js 
 
 - ✍️ 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 <a href="https://portfolio-abdoelazizgamal.vercel.app/posts"> <i> <b>My Posts</b></i></a> 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.
 - 🖖 JavaScript | React Js | 🔐 Web 3 Learner | ☕️ Coffe   | Python | Machine Learning | Node JS
